@@ -11,7 +11,7 @@ public class PrimeExample{
 
   if(n==0||n==1){  
 
-   System.out.println(n+" is not prime number!!!");      
+   System.out.println(n+" it is not prime number!!!");      
 
   }else{  
 
@@ -31,7 +31,7 @@ public class PrimeExample{
 
    if(flag==0)  { System.out.println(" is prime number!!!"); }  
 
-  }//end of else  
+  }//end of else loop 
 
 }    
 
