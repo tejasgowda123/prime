@@ -29,7 +29,7 @@ public class PrimeExample{
 
    }      
 
-   if(flag==0)  { System.out.println(" is prime number!"); }  
+   if(flag==0)  { System.out.println(" is prime number!!!"); }  
 
   }//end of else  
 
